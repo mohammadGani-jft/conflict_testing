@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 good afternoon helo im manan
+=======
+hello i am manan
+>>>>>>> 7a9eba4274179d5bdb113ee828da371cf51dc2d1
